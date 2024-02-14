@@ -1,0 +1,42 @@
+February 5, 2024, 4:16 pm
+----------- DATA -------------
+Array
+(
+    [name] => Olger
+    [phone] => +50661171103
+    [offerId] => 0e1993ed-5291-4258-b10b-1b7148c73391
+    [domain] => http://yrhjfgg.shop/lander/easytox-cr-1/lemon.php
+    [ip] => 181.194.251.88
+    [utm_campaign] => EasyTox CR 05/01/1
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => fb
+    [utm_term] => 
+    [clickid] => 2mob6h39f5qa
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"localClickId":"29a9c82a-9164-420f-bc32-f9fd1152d7eb","result":"ok"}
+----------- END --------------
+February 5, 2024, 8:06 pm
+----------- DATA -------------
+Array
+(
+    [name] => Luis
+    [phone] => 71141099
+    [offerId] => 0e1993ed-5291-4258-b10b-1b7148c73391
+    [domain] => http://yrhjfgg.shop/lander/easytox-cr-1/lemon.php
+    [ip] => 201.198.177.82
+    [utm_campaign] => EasyTox CR 05/01/1
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => fb
+    [utm_term] => 
+    [clickid] => cmnpd29foj2
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"localClickId":"b4df96f7-d86f-4981-9d60-31eb5449b351","result":"ok"}
+----------- END --------------
